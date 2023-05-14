@@ -15,4 +15,4 @@ Thought this would take me 2 hours, it took 2 hours.
 
 # Code
 
-[code]()
+[code](https://github.com/houseofpython/automation/blob/eee4eb111152131c55a6ed6fb98466b839a8a793/automation.py)
